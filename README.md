@@ -1,19 +1,19 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hFsxmaQquNt/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
   <h1>Hi there, I'm Shreyas B S 👋</h1>
-  <h3>A passionate Software Engineer and Ethical Hacker from Bengaluru, India 🇮🇳</h3>
+  <h3>A hands-on Software Engineer and Ethical Hacker from Bengaluru, India 🇮🇳</h3>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a student fascinated by the intersection of building and breaking things. My journey in tech is driven by a curiosity for how systems work and a passion for securing them. I thrive on solving complex problems, whether it's developing a sleek frontend or diving deep into network security.
+I'm a security-focused engineer who loves to build, break, and secure systems. My passion lies in understanding the complete lifecycle of software—from development and deployment to identifying and mitigating vulnerabilities. I have hands-on experience creating ethical hacking tools and defensive systems from the ground up.
 
-- 🔭 &nbsp; I’m currently focused on **Mapping Technologies** and **Frontend Development**.
-- 🌱 &nbsp; I’m learning **Android Development**, **Hardware Security**, and advanced **Networking concepts**.
-- 👯 &nbsp; I’m looking to collaborate on **Backend Development** and **Ethical Hacking** projects.
-- 💬 &nbsp; Ask me about **philosophy, cybersecurity, or anything nerdy**.
+- 🚀 &nbsp; I’m currently building **Ethical Hacking tools** in Python and exploring **secure deployment with Docker**.
+- 🌱 &nbsp; I’m learning **Android Development**, **Hardware Security**, and advanced **Threat Intelligence**.
+- 👯 &nbsp; I’m looking to collaborate on **Backend Development**, **Security Automation**, and **Ethical Hacking** projects.
+- 💬 &nbsp; Ask me about **Python, network security, or philosophy**.
 - 📫 &nbsp; How to reach me: **shreyas1860@gmail.com**
 - ⚡ &nbsp; Fun fact: I genuinely believe anyone can master computer skills with enough curiosity and persistence.
 
@@ -22,16 +22,16 @@ I'm a student fascinated by the intersection of building and breaking things. My
 ### 🛠️ My Tech Stack
 
 <details>
-  <summary>Programming Languages</summary>
+  <summary>Programming & Scripting</summary>
   <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>
   </p>
 </details>
 
@@ -56,17 +56,46 @@ I'm a student fascinated by the intersection of building and breaking things. My
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
   </p>
 </details>
 
 <details>
-  <summary>DevOps & Other Tools</summary>
+  <summary>DevOps, Security & Other Tools</summary>
   <p align="left">
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a> 
     <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a> 
-    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f
+  </p>
+</details>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas1860&layout=compact&theme=vision-friendly-dark" alt="shreyas1860" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas1860&show_icons=true&theme=vision-friendly-dark" alt="shreyas1860" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyas1860" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codesandbox.io/u/shreyas1860" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/>
+  </a>
+  <a href="https://www.kaggle.com/ashborn7" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.instagram.com/shreyas__b___s/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
