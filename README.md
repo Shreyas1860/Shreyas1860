@@ -97,8 +97,6 @@ class Shreyas:
   <img src="https://raw.githubusercontent.com/Shreyas1860/Shreyas1860/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-> This one needs a tiny GitHub Actions workflow (running in this same `Shreyas1860/Shreyas1860` repo) to auto-generate the snake SVG — say the word and I'll write that config too.
-
 ---
 
 ### 🌐 let's connect
