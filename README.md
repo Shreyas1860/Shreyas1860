@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shreyasbs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Shreyas1860&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </div>
 
@@ -77,29 +77,27 @@ class Shreyas:
 ### 📊 the receipts
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shreyasbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbs&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Shreyas1860&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas1860&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyasbs&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas1860&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyasbs&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas1860&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
-
-> ⚠️ Swap `shreyasbs` in the URLs above for your actual GitHub username if it's different — these stat widgets key off that.
 
 ---
 
 ### 🐍 contribution snake (yes, it's alive)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreyasbs/shreyasbs/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shreyas1860/Shreyas1860/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-> This one needs a tiny GitHub Actions workflow to auto-generate — say the word and I'll set that up for you too.
+> This one needs a tiny GitHub Actions workflow (running in this same `Shreyas1860/Shreyas1860` repo) to auto-generate the snake SVG — say the word and I'll write that config too.
 
 ---
 
